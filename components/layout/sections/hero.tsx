@@ -31,7 +31,6 @@ export const HeroSection = () => {
             <Button className="w-5/6 md:w-1/4 font-bold group/arrow">
               <Link href="https://discord.gg/tsY95TYCvc" target="_blank">
                 Join Discord
-                <ArrowRight className="size-5 ml-2 group-hover/arrow:translate-x-1 transition-transform" />
               </Link>
             </Button>
 
