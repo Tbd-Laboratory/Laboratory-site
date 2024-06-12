@@ -14,7 +14,7 @@ export const HeroSection = () => {
         <div className="text-center space-y-8">
           <Badge variant="outline" className="text-sm py-2">
             <span className="mr-2 text-primary">
-              <Badge>Ship</Badge>
+              <Badge>Build & Ship</Badge>
             </span>
             <span> Open Projects </span>
           </Badge>
@@ -29,8 +29,10 @@ export const HeroSection = () => {
 
           <div className="space-y-4 md:space-y-0 md:space-x-4">
             <Button className="w-5/6 md:w-1/4 font-bold group/arrow">
-              Get Started
-              <ArrowRight className="size-5 ml-2 group-hover/arrow:translate-x-1 transition-transform" />
+              <Link href="https://discord.gg/tsY95TYCvc" target="_blank">
+                Join Discord
+                <ArrowRight className="size-5 ml-2 group-hover/arrow:translate-x-1 transition-transform" />
+              </Link>
             </Button>
 
             <Button
