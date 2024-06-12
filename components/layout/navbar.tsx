@@ -73,6 +73,7 @@ export const Navbar = () => {
       <Link href="/" className="font-bold text-lg flex items-center">
         <Image
           src="logo.svg"
+          alt="Laboratory logo"
           width={169}
           height={170}
           className="border-secondary from-primary via-primary/70 to-primary rounded-lg w-9 h-9 mr-2 border text-white"
