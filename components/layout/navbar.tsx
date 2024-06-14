@@ -98,8 +98,14 @@ export const Navbar = () => {
               <SheetHeader className="mb-4 ml-4">
                 <SheetTitle className="flex items-center">
                   <Link href="/" className="flex items-center">
-                    <ChevronsDown className="bg-gradient-to-tr border-secondary from-primary via-primary/70 to-primary rounded-lg w-9 h-9 mr-2 border text-white" />
-                    Shadcn
+                    <Image
+                      src="logo.svg"
+                      alt="Laboratory logo"
+                      width={169}
+                      height={170}
+                      className="border-secondary from-primary via-primary/70 to-primary rounded-lg w-9 h-9 mr-2 border text-white"
+                    />
+                    Laboratory
                   </Link>
                 </SheetTitle>
               </SheetHeader>
