@@ -11,39 +11,39 @@ interface FeaturesProps {
 const featureList: FeaturesProps[] = [
   {
     icon: "TabletSmartphone",
-    title: "Mobile Friendly",
+    title: "Strong Ethical Foundation",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. A odio velit cum aliquam, consectetur.",
+      "Maintain high ethical standards, respecting privacy, security, and user rights, influencing global internet policies.",
   },
   {
     icon: "BadgeCheck",
-    title: "Social Proof",
+    title: "Open-Source Commitment",
     description:
-      "Lorem ipsum dolor sit amet consectetur. Natus consectetur, odio ea accusamus aperiam.",
+      "Transparent, fully open-source projects, prioritizing community-driven development and decision-making for maximum innovation.",
   },
   {
     icon: "Goal",
-    title: "Targeted Content",
+    title: "Global Impact",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. odio ea accusamus aperiam.",
+      "Create projects that address and improve global internet infrastructure challenges and connectivity.",
   },
   {
     icon: "PictureInPicture",
-    title: "Strong Visuals",
+    title: "Collaborative Ecosystem",
     description:
-      "Lorem elit. A odio velit cum aliquam. Natus consectetur dolores, odio ea accusamus aperiam.",
+      "Form strategic industry partnerships, fostering ecosystem growth through collaboration and resource sharing.",
   },
   {
     icon: "MousePointerClick",
-    title: "Clear CTA",
+    title: "Contributor development.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing. odio ea accusamus consectetur.",
+      "Offer training, premium tools, and career advancement opportunities to enhance contributors' growth.",
   },
   {
     icon: "Newspaper",
-    title: "Clear Headline",
+    title: "Nonprofit Mission",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. A odio velit cum aliquam. Natus consectetur.",
+      "Dedicated to humanity, pioneering transformative internet solutions and establishing universal standards.",
   },
 ];
 
@@ -57,12 +57,6 @@ export const FeaturesSection = () => {
       <h2 className="text-3xl md:text-4xl text-center font-bold mb-4">
         What Makes Us Different
       </h2>
-
-      <h3 className="md:w-1/2 mx-auto text-xl text-center text-muted-foreground mb-8">
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem
-        fugiat, odit similique quasi sint reiciendis quidem iure veritatis optio
-        facere tenetur.
-      </h3>
 
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {featureList.map(({ icon, title, description }) => (

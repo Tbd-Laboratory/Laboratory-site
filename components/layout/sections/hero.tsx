@@ -14,13 +14,13 @@ export const HeroSection = () => {
         <div className="text-center space-y-8">
           <Badge variant="outline" className="text-sm py-2">
             <span className="mr-2 text-primary">
-              <Badge>Build & Ship</Badge>
+              <Badge>Build & ship</Badge>
             </span>
-            <span> Open Projects </span>
+            <span> open projects </span>
           </Badge>
 
           <div className="max-w-screen-md mx-auto text-center text-4xl md:text-6xl font-bold">
-            <h1>open source software & infrastructure development</h1>
+            <h1>Open software & Infrastructure development</h1>
           </div>
 
           <p className="max-w-screen-sm mx-auto text-xl text-muted-foreground">

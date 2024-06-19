@@ -34,18 +34,7 @@ interface FeatureProps {
 }
 
 const routeList: RouteProps[] = [
-  {
-    href: "https://discord.gg/tsY95TYCvc",
-    label: "Team",
-  },
-  {
-    href: "mailto:arnx5533@gmail.com",
-    label: "Contact",
-  },
-  {
-    href: "#faq",
-    label: "FAQ",
-  },
+ 
 ];
 
 const featureList: FeatureProps[] = [
