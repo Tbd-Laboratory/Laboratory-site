@@ -24,7 +24,7 @@ export const HeroSection = () => {
           </div>
 
           <p className="max-w-screen-sm mx-auto text-xl text-muted-foreground">
-            {`We're a network of open source enthusiasts`}
+            {`We're a network of open source nerds.`}
           </p>
 
           <div className="space-y-4 md:space-y-0 md:space-x-4">

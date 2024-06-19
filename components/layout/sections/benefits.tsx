@@ -19,7 +19,7 @@ const benefitList: BenefitsProps[] = [
     icon: "LineChart",
     title: "Societal Benefits",
     description:
-      "Improve internet accessibility, security, and digital literacy globally.",
+      "Enhance global internet, security, and other impactful projects with forward-thinking, impactful projects.",
   },
   {
     icon: "Wallet",
