@@ -16,28 +16,10 @@ const featureList: FeaturesProps[] = [
       "Maintain high ethical standards, respecting privacy, security, and user rights, influencing global internet policies.",
   },
   {
-    icon: "BadgeCheck",
-    title: "Open-Source Commitment",
-    description:
-      "Transparent, fully open-source projects, prioritizing community-driven development and decision-making for maximum innovation.",
-  },
-  {
     icon: "Goal",
     title: "Global Impact",
     description:
       "Create projects that address and improve global internet infrastructure challenges and connectivity.",
-  },
-  {
-    icon: "PictureInPicture",
-    title: "Collaborative Ecosystem",
-    description:
-      "Form strategic industry partnerships, fostering ecosystem growth through collaboration and resource sharing.",
-  },
-  {
-    icon: "MousePointerClick",
-    title: "Contributor development.",
-    description:
-      "Offer training, premium tools, and career advancement opportunities to enhance contributors' growth.",
   },
   {
     icon: "Newspaper",

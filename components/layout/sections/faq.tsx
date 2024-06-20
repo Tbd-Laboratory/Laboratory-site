@@ -13,32 +13,32 @@ interface FAQProps {
 
 const FAQList: FAQProps[] = [
   {
-    question: "Is this template free?",
-    answer: "Yes. It is a free NextJS Shadcn template.",
+    question: "What types of projects does the laboratory focus on?",
+    answer: "We focus on infrastructure, emerging technologies and developer tools, creating innovative open-source solutions to enhance the internet and digital infrastructure.",
     value: "item-1",
   },
   {
-    question: "Duis aute irure dolor in reprehenderit in voluptate velit?",
+    question: "How can I get started with contributing?",
     answer:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint labore quidem quam consectetur sapiente, iste rerum reiciendis animi nihil nostrum sit quo, modi quod.",
+      "Join our community, chat, set up your development environment, and begin contributing.",
     value: "item-2",
   },
   {
     question:
-      "Lorem ipsum dolor sit amet Consectetur natus dolor minus quibusdam?",
+      "Can I propose a new project idea?",
     answer:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore qui nostrum reiciendis veritatis.",
+      "Yes, we encourage community members to propose new project ideas. You can submit your ideas through our project proposal process outlined on our website.",
     value: "item-3",
   },
   {
-    question: "Excepteur sint occaecat cupidata non proident sunt?",
-    answer: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    question: "Is there any support available for contributors?",
+    answer: "Yes, we offer extensive documentation, community forums, mentorship programs, and regular workshops to support our contributors.",
     value: "item-4",
   },
   {
     question:
-      "Enim ad minim veniam, quis nostrud exercitation ullamco laboris?",
-    answer: "consectetur adipisicing elit. Sint labore.",
+      "How can I collaborate or form a partnership with the laboratory?",
+    answer: "To collaborate or form a partnership with our laboratory, please reach out to us through our contact form or email us at Arnx5533@gmail.com. We welcome opportunities to work with individuals, organisations, and institutions on innovative open-source projects.",
     value: "item-5",
   },
 ];
