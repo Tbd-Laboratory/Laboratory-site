@@ -27,7 +27,7 @@ const FAQList: FAQProps[] = [
     question:
       "Can I propose a new project idea?",
     answer:
-      "Yes, we encourage community members to propose new project ideas. You can submit your ideas through our project proposal process outlined on our website.",
+      "Yes, we encourage community members to propose new project ideas. You can submit your ideas through our discord server.",
     value: "item-3",
   },
   {
