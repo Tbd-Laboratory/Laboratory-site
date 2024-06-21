@@ -93,11 +93,18 @@ export const Navbar = () => {
                 <SheetTitle className="flex items-center">
                   <Link href="/" className="flex items-center">
                     <Image
-                      src="logo.svg"
+                      src="logo-black.svg"
                       alt="Laboratory logo"
                       width={169}
                       height={170}
-                      className="border-secondary from-primary via-primary/70 to-primary rounded-lg w-9 h-9 mr-2 border text-white"
+                      className="dark:hidden border-secondary from-primary via-primary/70 to-primary rounded-lg w-9 h-9 mr-2 border text-white"
+                    />
+                    <Image
+                      src="logo-white.svg"
+                      alt="Laboratory logo"
+                      width={169}
+                      height={170}
+                      className="hidden dark:block border-secondary from-primary via-primary/70 to-primary rounded-lg w-9 h-9 mr-2 border text-white"
                     />
                     Laboratory
                   </Link>
