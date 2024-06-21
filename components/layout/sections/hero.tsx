@@ -16,7 +16,7 @@ export const HeroSection = () => {
             <span className="mr-2 text-primary">
               <Badge>Build & ship</Badge>
             </span>
-            <span> open projects </span>
+            <span> open-projects </span>
           </Badge>
 
           <div className="max-w-screen-md mx-auto text-center text-4xl md:text-6xl font-bold">
@@ -39,8 +39,8 @@ export const HeroSection = () => {
               variant="secondary"
               className="w-5/6 md:w-1/4 font-bold"
             >
-              <Link href="https://github.com/A6rron/-ID" target="_blank">
-                Github respository
+              <Link href="https://github.com/Tbd-Laboratory" target="_blank">
+                Github 
               </Link>
             </Button>
           </div>
